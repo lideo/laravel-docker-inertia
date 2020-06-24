@@ -1,4 +1,4 @@
-This repository is a test set up of a Laravel project for local development with Docker.
+This repository is a test set up of a Laravel project for local development with Docker (NGINX, PHP and MySQL).
 
 It uses [Inertia.js](https://inertiajs.com/) and React for front-end rendering.
 
