@@ -25,6 +25,8 @@ DB_PASSWORD=secret
 ...
 ```
 
+These configuration values are not real.
+
 The `DB_HOST` field needs to be the name of the container that runs the database, in this case the name is "mysql", as specified in the docker-compose configuration file.
 
 ## Docker Compose commands
